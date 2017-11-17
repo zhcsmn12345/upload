@@ -3,3 +3,5 @@ Git is free software.
 
 revenge
 merge
+
+dev manage
